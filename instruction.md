@@ -1,0 +1,2 @@
+Analyze the web server access log in /app/access.log and write /app/report.json with the keys "total_requests", "unique_ips", and "top_path". Do not modify /app/access.log.
+You have 120 seconds to complete this task. Do not cheat by using online solutions or hints specific to this task.
